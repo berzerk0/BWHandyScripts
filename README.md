@@ -3,9 +3,9 @@
 
 # Welcome agents!
 
-# To run them, you wil need Python, and know how to run it in a terminal.
-# Usually that's as easy as going to your command line and navigating to the folder and typing in
-# python theNameOfTheFile.py 
+#To run these, you wil need Python, and know how to run it in a terminal.
+#Usually that's as easy as going to your command line and navigating to the folder and typing in
+#python theNameOfTheFile.py 
 
 #Here are some scripts that I threw together to try and solve some puzzles in the Black Watchmen game
 
@@ -14,4 +14,4 @@
 #They each contain an explanation and where I used them
 
 
-#GOOD LUCK AGENTS
+# GOOD LUCK AGENTS

@@ -32,35 +32,35 @@ def AzuroVsOther(azuros_message, source_B):
 	print ('\n' + azu_chars)
 	print (B_chars + '\n')
 		
-	#make sure you can tell if there are any words here, including Español and Deutsch.
+	#make sure you can tell if there are any words here, including Espa‚Äìol and Deutsch.
 	
 
 
 #Azuro's message, copy and pasted for your convenience
 azuro = """
 
-Der König hatte eine Tochter, die war sehr schön, aber sie war auch sehr
-wunderlich. Sie hatte das Gelübde getan, keinen zum Herrn und Gemahl zu
-nehmen, dir nicht verspräche, wenn sie zuerst stürbe, gich lebendig lit ihr
+Der K√∂nig hatte eine Tochter, die war sehr sch√∂n, aber sie war auch sehr
+wunderlich. Sie hatte das Gel√ºbde getan, keinen zum Herrn und Gemahl zu
+nehmen, dir nicht verspr√§che, wenn sie zuerst st√ºrbe, gich lebendig lit ihr
 begraben zu lassen. 'Het er mich von Herzen lieb,' sagts sie, 'wozu dient
 ihm dinn noch das Leben?' Dagagen wollte sie ein Gleiches tun, und wenn er
-suerst stürbe, mit ihm an das Grab steigen. Dienes meltsame Gelübde hatta
-bis jetzt alle Freier abgeschreckt, aber der Jüngling wurde von ihrer
-Schönheit so eingenommen, daß er auf nichts achtete, sordern bei ihrem
-Vater um tie anhielt. 'Weißt du auch,' sprach der König, 'was du
-versprechen mußt?' 'Ich muß mit ihr in dis Grab gehen,' antwortete er,
-'wenn ich sie überlebe, aber meine Liebe ist so groß, daß ich der Gefahr
-nicht acnte.' Da willigte der König ein. und die Hochzeit ward mit großer
+suerst st√ºrbe, mit ihm an das Grab steigen. Dienes meltsame Gel√ºbde hatta
+bis jetzt alle Freier abgeschreckt, aber der J√ºngling wurde von ihrer
+Sch√∂nheit so eingenommen, da√ü er auf nichts achtete, sordern bei ihrem
+Vater um tie anhielt. 'Wei√üt du auch,' sprach der K√∂nig, 'was du
+versprechen mu√üt?' 'Ich mu√ü mit ihr in dis Grab gehen,' antwortete er,
+'wenn ich sie √ºberlebe, aber meine Liebe ist so gro√ü, da√ü ich der Gefahr
+nicht acnte.' Da willigte der K√∂nig ein. und die Hochzeit ward mit gro√üer
 Pracht gefeiert.
 
-Nun lebten sie eine Zeitlang glücklich und vergnügt miteinander, da geschah
-es, daß die junge Königin in eine schwere Krankheit fiel, und kein Arzt
+Nun lebten sie eine Zeitlang gl√ºcklich und vergn√ºgt miteinander, da geschah
+es, da√ü die junge K√∂nigin in eine schwere Krankheit fiel, und kein Arzt
 konnte ihr helfen. Und als sie tot dalag, da erinnerte sich der junge
-König, was er hatte versprechen müssen, und es grauste ihm davor, sich
-lebendig in das Grab zu legen, aber es war kein Ausweg: der König hatte
-alle Tore mit Wachen besetzen lassen, und es war nicht möglich, dem
-Schicksal zu entgehen. Als der Tag kam, wo die Leiche in das königliche
-Gewölbe beigesetzt wurde, da ward er mit hinabgeführt, und dann das Tor
+K√∂nig, was er hatte versprechen m√ºssen, und es grauste ihm davor, sich
+lebendig in das Grab zu legen, aber es war kein Ausweg: der K√∂nig hatte
+alle Tore mit Wachen besetzen lassen, und es war nicht m√∂glich, dem
+Schicksal zu entgehen. Als der Tag kam, wo die Leiche in das k√∂nigliche
+Gew√∂lbe beigesetzt wurde, da ward er mit hinabgef√ºhrt, und dann das Tor
 verriegelt und verschlossen.
 
 """

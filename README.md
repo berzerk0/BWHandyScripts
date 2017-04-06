@@ -1,7 +1,7 @@
 # BWHandyScripts
-# A few scripts I used in my efforts while playing The Black Watchmen
+#A few scripts I used in my efforts while playing The Black Watchmen
 
-#Welcome agents!
+# Welcome agents!
 
 # To run them, you wil need Python, and know how to run it in a terminal.
 # Usually that's as easy as going to your command line and navigating to the folder and typing in
